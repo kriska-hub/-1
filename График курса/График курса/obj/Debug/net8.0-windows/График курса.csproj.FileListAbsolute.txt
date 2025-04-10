@@ -1,0 +1,20 @@
+C:\Users\user\source\repos\График курса\График курса\bin\Debug\net8.0-windows\График курса.exe
+C:\Users\user\source\repos\График курса\График курса\bin\Debug\net8.0-windows\График курса.deps.json
+C:\Users\user\source\repos\График курса\График курса\bin\Debug\net8.0-windows\График курса.runtimeconfig.json
+C:\Users\user\source\repos\График курса\График курса\bin\Debug\net8.0-windows\График курса.dll
+C:\Users\user\source\repos\График курса\График курса\bin\Debug\net8.0-windows\График курса.pdb
+C:\Users\user\source\repos\График курса\График курса\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\user\source\repos\График курса\График курса\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\user\source\repos\График курса\График курса\obj\Debug\net8.0-windows\График курса_MarkupCompile.cache
+C:\Users\user\source\repos\График курса\График курса\obj\Debug\net8.0-windows\График курса_MarkupCompile.lref
+C:\Users\user\source\repos\График курса\График курса\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\user\source\repos\График курса\График курса\obj\Debug\net8.0-windows\График курса.g.resources
+C:\Users\user\source\repos\График курса\График курса\obj\Debug\net8.0-windows\График курса.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\График курса\График курса\obj\Debug\net8.0-windows\График курса.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\График курса\График курса\obj\Debug\net8.0-windows\График курса.AssemblyInfo.cs
+C:\Users\user\source\repos\График курса\График курса\obj\Debug\net8.0-windows\График курса.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\График курса\График курса\obj\Debug\net8.0-windows\График курса.dll
+C:\Users\user\source\repos\График курса\График курса\obj\Debug\net8.0-windows\refint\График курса.dll
+C:\Users\user\source\repos\График курса\График курса\obj\Debug\net8.0-windows\График курса.pdb
+C:\Users\user\source\repos\График курса\График курса\obj\Debug\net8.0-windows\График курса.genruntimeconfig.cache
+C:\Users\user\source\repos\График курса\График курса\obj\Debug\net8.0-windows\ref\График курса.dll
